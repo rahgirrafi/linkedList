@@ -1,4 +1,4 @@
-#include "functions.h"
+#include "linked_list_functions.h"
 #include <iostream>
 // FUBCTION DECLARATIONS
 

@@ -1,5 +1,5 @@
 #include <iostream>
-#include "functions.h"
+#include "linked_list_functions.h"
 using namespace std;
 
 //creates a block of memory with two parts: data part, address of the next block part.
